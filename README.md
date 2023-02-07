@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repo de PrepCourse de Henry 
+Este Proyecto es una prueba de como crear un repositorio y clonarlo a github a mi comptadora
